@@ -4,7 +4,7 @@
   "description": "dependencies",
   "main": "index.ejs",
   "scripts": {
-    "start": "node server.js"
+    "start": "node main.js"
   },
   "author": "heramb",
   "license": "ISC",
